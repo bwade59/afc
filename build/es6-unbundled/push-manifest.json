@@ -181,7 +181,7 @@
       "weight": 1
     }
   },
-  "src/my-view1.html": {
+  "src/main-page.html": {
     "bower_components/polymer/polymer.html": {
       "type": "document",
       "weight": 1
@@ -259,7 +259,7 @@
       "weight": 1
     }
   },
-  "src/my-view2.html": {
+  "src/preview-page.html": {
     "bower_components/polymer/polymer.html": {
       "type": "document",
       "weight": 1
@@ -337,7 +337,7 @@
       "weight": 1
     }
   },
-  "src/my-view3.html": {
+  "src/live-page.html": {
     "bower_components/polymer/polymer.html": {
       "type": "document",
       "weight": 1
