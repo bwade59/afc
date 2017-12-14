@@ -1,3 +1,4 @@
+
 <!--
 @license
 Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
@@ -10,23 +11,30 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
 <link rel="import" href="../bower_components/polymer/polymer.html">
 <link rel="import" href="../bower_components/paper-toggle-button/paper-toggle-button.html">
+<link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
+
 <link rel="import" href="shared-styles.html">
 
 <dom-module id="my-view1">
     <template>
-        <div style="text-align:center;">
-             <video align-center width="320" height="240" controls>
-                <source src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4" type="video/mp4">
-                <source src="moviehttp://clips.vorwaerts-gmbh.de/VfE_html5.mp4.ogg" type="video/ogg">
-                Your browser does not support the video tag.
-            </video>
-
-        </div>
-        <div class="card">
-
-            <div class="buttons">
-                <paper-toggle-button dialog-dismiss>Cancel</paper-toggle-button>
-                <paper-toggle-button dialog-confirm autofocus>Accept</paper-toggle-button>
+        <style>
+            .container {
+                @apply(--layout-horizontal);
+                @apply(--layout-around-justified);
+            }
+        </style>
+        <div class="container">
+            <div>
+                <video width="160" height="120" controls>
+                    <source src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4" type="video/mp4">
+                </video>
+                <paper-toggle-button>Preview</paper-toggle-button>
+            </div>
+            <div>
+                <video width="160" height="120" controls>
+                    <source src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4" type="video/mp4">
+                </video>
+                <paper-toggle-button>Live!</paper-toggle-button>
             </div>
         </div>
     </template>

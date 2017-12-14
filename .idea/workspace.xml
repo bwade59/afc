@@ -2,115 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc351139-ad3e-453e-8430-6dd9275b7923" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/build/es5-bundled/index.html" afterPath="$PROJECT_DIR$/build/es5-bundled/index.html" />
       <change beforePath="$PROJECT_DIR$/build/es5-bundled/push-manifest.json" afterPath="$PROJECT_DIR$/build/es5-bundled/push-manifest.json" />
       <change beforePath="$PROJECT_DIR$/build/es5-bundled/service-worker.js" afterPath="$PROJECT_DIR$/build/es5-bundled/service-worker.js" />
-      <change beforePath="$PROJECT_DIR$/build/es5-bundled/src/live-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/es5-bundled/src/main-page.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/es5-bundled/src/my-app.html" afterPath="$PROJECT_DIR$/build/es5-bundled/src/my-app.html" />
-      <change beforePath="$PROJECT_DIR$/build/es5-bundled/src/preview-page.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/es6-bundled/index.html" afterPath="$PROJECT_DIR$/build/es6-bundled/index.html" />
       <change beforePath="$PROJECT_DIR$/build/es6-bundled/push-manifest.json" afterPath="$PROJECT_DIR$/build/es6-bundled/push-manifest.json" />
       <change beforePath="$PROJECT_DIR$/build/es6-bundled/service-worker.js" afterPath="$PROJECT_DIR$/build/es6-bundled/service-worker.js" />
-      <change beforePath="$PROJECT_DIR$/build/es6-bundled/src/live-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/es6-bundled/src/main-page.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/es6-bundled/src/my-app.html" afterPath="$PROJECT_DIR$/build/es6-bundled/src/my-app.html" />
-      <change beforePath="$PROJECT_DIR$/build/es6-bundled/src/preview-page.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/es6-unbundled/index.html" afterPath="$PROJECT_DIR$/build/es6-unbundled/index.html" />
       <change beforePath="$PROJECT_DIR$/build/es6-unbundled/push-manifest.json" afterPath="$PROJECT_DIR$/build/es6-unbundled/push-manifest.json" />
       <change beforePath="$PROJECT_DIR$/build/es6-unbundled/service-worker.js" afterPath="$PROJECT_DIR$/build/es6-unbundled/service-worker.js" />
-      <change beforePath="$PROJECT_DIR$/build/es6-unbundled/src/live-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/es6-unbundled/src/main-page.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/es6-unbundled/src/my-app.html" afterPath="$PROJECT_DIR$/build/es6-unbundled/src/my-app.html" />
-      <change beforePath="$PROJECT_DIR$/build/es6-unbundled/src/preview-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-if/.editorconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-if/.jshintignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-if/.jshintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-if/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-if/.travis.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/ansi-styles/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/ansi-styles/license" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/ansi-styles/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/ansi-styles/readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/chalk/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/chalk/license" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/chalk/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/chalk/readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/chalk/templates.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/chalk/types/index.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/supports-color/browser.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/supports-color/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/supports-color/license" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/supports-color/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/supports-color/readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/.bin/gulp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/CHANGELOG.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/bin/gulp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/completion/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/completion/bash" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/completion/fish" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/completion/powershell" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/completion/zsh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/gulp.1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/cliOptions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/completion.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/config/cli-flags.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/config/env-flags.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/config/load-files.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/exit.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/getBlacklist.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/is-array.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/is-number.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/is-string.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/log/blacklistError.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/log/copy-tree.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/log/tasks.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/log/toConsole.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/log/verify.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/registerExports.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/shared/verifyDependencies.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^3.7.0/formatError.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^3.7.0/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^3.7.0/log/events.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^3.7.0/log/tasksSimple.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^3.7.0/taskTree.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0-alpha.1/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0-alpha.2/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0/formatError.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0/log/events.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0/log/getTask.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0/log/syncTask.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/lib/versioned/^4.0.0/log/tasksSimple.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-cli/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/.clang-format" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/.eslintignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/.github/PULL_REQUEST_TEMPLATE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/.travis.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/.vscode/settings.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/duplexer2/LICENSE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/duplexer2/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/duplexer2/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/duplexer2/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/.travis.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/History.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/Makefile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/polymer-build/node_modules/multipipe/test/multipipe.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/polymer.json" afterPath="$PROJECT_DIR$/polymer.json" />
-      <change beforePath="$PROJECT_DIR$/src/live-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/my-app.html" afterPath="$PROJECT_DIR$/src/my-app.html" />
-      <change beforePath="$PROJECT_DIR$/src/preview-page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/polymer.json" afterPath="$PROJECT_DIR$/build/polymer.json" />
+      <change beforePath="$PROJECT_DIR$/src/my-view1.html" afterPath="$PROJECT_DIR$/src/my-view1.html" />
+      <change beforePath="$PROJECT_DIR$/src/my-view2.html" afterPath="$PROJECT_DIR$/src/my-view2.html" />
+      <change beforePath="$PROJECT_DIR$/src/my-view3.html" afterPath="$PROJECT_DIR$/src/my-view3.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -123,7 +31,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="my-view1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my-view1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-view3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my-view3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-view2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/my-view2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-app.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my-app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="91" column="35" lean-forward="false" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,12 +85,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/my-view1.html" />
-        <option value="$PROJECT_DIR$/src/my-view2.html" />
-        <option value="$PROJECT_DIR$/src/my-view3.html" />
         <option value="$PROJECT_DIR$/src/live-page.html" />
         <option value="$PROJECT_DIR$/polymer.json" />
         <option value="$PROJECT_DIR$/src/my-app.html" />
+        <option value="$PROJECT_DIR$/src/my-view3.html" />
+        <option value="$PROJECT_DIR$/src/my-view1.html" />
+        <option value="$PROJECT_DIR$/src/my-view2.html" />
       </list>
     </option>
   </component>
@@ -162,10 +115,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="190" />
-    <option name="y" value="14" />
-    <option name="width" value="915" />
-    <option name="height" value="674" />
+    <option name="x" value="152" />
+    <option name="y" value="1" />
+    <option name="width" value="1103" />
+    <option name="height" value="757" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -210,28 +163,12 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="afc" type="cbb8eebc:String" user="afc" />
-              <item name="build" type="cbb8eebc:String" user="build" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="afc" type="cbb8eebc:String" user="afc" />
-              <item name="build" type="cbb8eebc:String" user="build" />
-              <item name="es6-unbundled" type="cbb8eebc:String" user="es6-unbundled" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="afc" type="cbb8eebc:String" user="afc" />
-              <item name="build" type="cbb8eebc:String" user="build" />
-              <item name="es6-unbundled" type="cbb8eebc:String" user="es6-unbundled" />
               <item name="bower_components" type="cbb8eebc:String" user="bower_components" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="afc" type="cbb8eebc:String" user="afc" />
-              <item name="build" type="cbb8eebc:String" user="build" />
-              <item name="es6-unbundled" type="cbb8eebc:String" user="es6-unbundled" />
-              <item name="bower_components" type="cbb8eebc:String" user="bower_components" />
-              <item name="app-layout" type="cbb8eebc:String" user="app-layout" />
+              <item name="src" type="cbb8eebc:String" user="src" />
             </path>
           </expand>
           <select />
@@ -275,7 +212,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513209922926</updated>
       <workItem from="1513209926397" duration="5953000" />
-      <workItem from="1513256799153" duration="2130000" />
+      <workItem from="1513256799153" duration="5367000" />
     </task>
     <task id="LOCAL-00001" summary="Changing some text on displays.">
       <created>1513213719973</created>
@@ -288,19 +225,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8083000" />
+    <option name="totallyTimeSpent" value="11320000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="14" width="915" height="674" extended-state="0" />
+    <frame x="152" y="1" width="1103" height="757" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29901424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24795641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38868612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33755943" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -342,14 +279,6 @@
     <entry file="file://$PROJECT_DIR$/src/live-page.html" />
     <entry file="file://$PROJECT_DIR$/src/main-page.html" />
     <entry file="file://$PROJECT_DIR$/src/preview-page.html" />
-    <entry file="file://$PROJECT_DIR$/src/my-app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="94" column="15" lean-forward="false" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/my-view404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -379,6 +308,42 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="91" column="35" lean-forward="false" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

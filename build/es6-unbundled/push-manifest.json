@@ -181,11 +181,7 @@
       "weight": 1
     }
   },
-<<<<<<< HEAD
   "src/my-view1.html": {
-=======
-  "src/main-page.html": {
->>>>>>> 00fdadfc690ffad4bae3ba50dc18de9f07b9ecbc
     "bower_components/polymer/polymer.html": {
       "type": "document",
       "weight": 1
@@ -263,11 +259,7 @@
       "weight": 1
     }
   },
-<<<<<<< HEAD
   "src/my-view2.html": {
-=======
-  "src/preview-page.html": {
->>>>>>> 00fdadfc690ffad4bae3ba50dc18de9f07b9ecbc
     "bower_components/polymer/polymer.html": {
       "type": "document",
       "weight": 1
@@ -345,11 +337,7 @@
       "weight": 1
     }
   },
-<<<<<<< HEAD
   "src/my-view3.html": {
-=======
-  "src/live-page.html": {
->>>>>>> 00fdadfc690ffad4bae3ba50dc18de9f07b9ecbc
     "bower_components/polymer/polymer.html": {
       "type": "document",
       "weight": 1

@@ -1,13 +1,7 @@
 {
   "src/my-app.html": {},
-<<<<<<< HEAD
   "src/my-view1.html": {},
   "src/my-view2.html": {},
   "src/my-view3.html": {},
-=======
-  "src/main-page.html": {},
-  "src/preview-page.html": {},
-  "src/live-page.html": {},
->>>>>>> 00fdadfc690ffad4bae3ba50dc18de9f07b9ecbc
   "src/my-view404.html": {}
 }
